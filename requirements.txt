@@ -1,0 +1,4 @@
+pip == 7.1.2
+pycurl == 7.19.5.3
+setuptools == 18.2
+wheel == 0.24.0
